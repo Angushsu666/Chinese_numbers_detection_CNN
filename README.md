@@ -46,27 +46,3 @@ Run the following script to train the CNN model:
 ```bash
 python train_model.py
 
-Model Evaluation
-Evaluate the trained model on the test dataset:
-
-bash
-Copy code
-python evaluate_model.py
-Results
-The trained model achieves an accuracy of [insert accuracy here] on the test dataset.
-
-Contributing
-If you'd like to contribute to this project, please follow these guidelines.
-
-Fork the project.
-Create your feature branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/your-feature).
-Open a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Acknowledgments
-Mention any contributors or resources that you found helpful.
-Make sure to replace `[insert accuracy here]`, `your-username`, and other placeholders with the actual information. You can also include additional sections or details based on your project's complexity and requirements.
